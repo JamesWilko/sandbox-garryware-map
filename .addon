@@ -3,13 +3,13 @@
   "Type": "map",
   "Org": "dhi",
   "Ident": "garryware_map",
+  "Tags": null,
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
   "ResourcePaths": null,
   "HasCode": false,
   "CodePath": null,
-  "RootNamespace": null,
   "Metadata": {
     "ProjectTemplate": null,
     "GameSupport": [

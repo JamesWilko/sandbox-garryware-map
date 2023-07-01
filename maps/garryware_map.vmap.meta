@@ -5,7 +5,7 @@
       "Title": "Garryware Map",
       "Type": "map",
       "Org": "dhi",
-      "Ident": "garryware_map",
+      "Ident": "garryware_lifelime",
       "Tags": null,
       "Schema": 0,
       "HasAssets": false,
@@ -15,7 +15,10 @@
       "HasCode": false,
       "CodePath": null,
       "PackageReferences": [],
-      "EditorReferences": null,
+      "EditorReferences": [
+        "facepunch.floor_grass_dirt_blend_a#18649",
+        "facepunch.concrete_glossy#18629"
+      ],
       "Metadata": {
         "SingleAssetSource": "maps/garryware_map.vmap",
         "GameSupport": [

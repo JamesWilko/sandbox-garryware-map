@@ -1,19 +1,26 @@
 {
   "Title": "Garryware Map",
-  "Type": "map",
+  "Type": "content",
   "Org": "dhi",
   "Ident": "garryware_map",
-  "Tags": null,
+  "Tags": "",
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
-  "ResourcePaths": null,
+  "Resources": null,
+  "MenuResources": null,
   "HasCode": false,
   "CodePath": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
   "Metadata": {
     "ProjectTemplate": null,
     "GameSupport": [
       "dhi.garryware"
-    ]
+    ],
+    "Summary": "A very lime map for playing Garryware on.",
+    "Description": "",
+    "Public": true,
+    "ReplaceTags": "garryware party minigame"
   }
 }

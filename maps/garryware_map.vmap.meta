@@ -1,0 +1,31 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Garryware Map",
+      "Type": "map",
+      "Org": "dhi",
+      "Ident": "garryware_map",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "maps/garryware_map.vmap",
+        "GameSupport": [
+          "dhi.garryware"
+        ],
+        "Summary": "A very lime map for playing Garryware on.",
+        "Description": "A map for playing Garryware on that supports up to 32 players.",
+        "Public": true,
+        "ReplaceTags": "minigames party social"
+      }
+    }
+  }
+}
